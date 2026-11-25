@@ -130,7 +130,6 @@ README.md
 ## UI Design
 
 - Wireframes of all main screens are in the `design/` folder
-- Prototype: https://claude.ai/artifact/6uugjGhW3JBDizkDRW4YLb
 
 ## Progress
 
